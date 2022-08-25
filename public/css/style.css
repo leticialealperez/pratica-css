@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    position: relative;
+}
+
+
+li {
+    list-style: none;
+}
+
+nav {
+    background-color: red;
+    height: 110vh;
+    width: 30vw;
+    position: sticky;
+    left: 0;
+    top: 40px;
+}
+
+main {
+    width: 80vw;
+    height: 300vh;
+    background-color: blue;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
